@@ -4,7 +4,7 @@
  <title>Dhruv Doshi</title>
  <link href="https://dhruvdoshi.github.io/blog/atom.xml" rel="self"/>
  <link href="https://dhruvdoshi.github.io/blog/"/>
- <updated>2022-01-27T18:03:09-04:00</updated>
+ <updated>2022-03-24T15:12:27-03:00</updated>
  <id>https://dhruvdoshi.github.io</id>
  <author>
    <name>Dhruv Doshi</name>
@@ -1527,13 +1527,13 @@ Other than that, atomic swaps bring up concerns about user’s privacy. That’s
    <id>https://dhruvdoshi.github.io/2019/09/06/What-is-Transaction-Fees-in-Blockchain-?</id>
    <content type="html">&lt;p&gt;The blockchain fee is a cryptocurrency transaction fee that is &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;charged to users when performing crypto transactions.&lt;/span&gt;&lt;/b&gt; The fee is collected in order to process the transaction on the network.&lt;/p&gt;
 
-&lt;p&gt;You need to pay the blockchain fee to ensure your cryptocurrency transfers arrive in a timely manner. The blockchain fee is &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;one of the main tools used to speed up crypto transactions,&lt;/span&gt;&lt;/b&gt; which are often slow due to high congestion on the blockchain network. The lower the blockchain fee, the lower your transaction’s priority in the blockchain network.&lt;/p&gt;
+&lt;p&gt;You need to pay the blockchain fee to ensure your cryptocurrency transfers arrive promptly. The blockchain fee is &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;one of the main tools used to speed up crypto transactions,&lt;/span&gt;&lt;/b&gt; which are often slow due to high congestion on the blockchain network. The lower the blockchain fee, the lower your transaction’s priority in the blockchain network.&lt;/p&gt;
 
-&lt;p&gt;Transaction fees for cryptocurrency depend mainly on the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;supply of network capacity at the time,&lt;/span&gt;&lt;/b&gt; versus the demand from the currency holder for a faster transaction. The currency holder can choose a specific transaction fee, while network entities process transactions in order of highest offered fee to lowest. Cryptocurrency exchanges can simplify the process for currency holders by offering priority alternatives and thereby determine which fee will likely cause the transaction to be processed in the requested time.&lt;/p&gt;
+&lt;p&gt;Transaction fees for cryptocurrency depend mainly on the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;supply of network capacity at the time,&lt;/span&gt;&lt;/b&gt; versus the demand from the currency holder for a faster transaction. The currency holder can choose a specific transaction fee, while network entities process transactions from the highest offered fee to the lowest. Cryptocurrency exchanges can simplify the process for currency holders by offering priority alternatives and determining which fee will likely cause the transaction to be processed in the requested time.&lt;/p&gt;
 
 &lt;p&gt;For ether, transaction fees differ by computational complexity, bandwidth use, and storage needs, while bitcoin transaction fees differ by transaction size and whether the transaction uses SegWit. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;In September 2018, the median transaction fee for ether corresponded to $0.017, while for bitcoin it corresponded to $0.55.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Some cryptocurrencies have no transaction fees, and instead rely on client-side proof-of-work as the transaction prioritization and anti-spam mechanism.&lt;/p&gt;
+&lt;p&gt;Some cryptocurrencies have no transaction fees and rely on client-side proof-of-work as the transaction prioritization and anti-spam mechanism.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1558,20 +1558,20 @@ Other than that, atomic swaps bring up concerns about user’s privacy. That’s
    <link href="https://dhruvdoshi.github.io/blog/2019/09/05/what-is-anonimity-in-blockchain"/>
    <updated>2019-09-05T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/05/What-is-Anonimity-in-Blockchain-?</id>
-   <content type="html">&lt;p&gt;Blockchain is public for all but the information saved in the blockchain is not public for all the users as it comes up with SHA encryption and the information is only accessed while verification of the data by the legitimacy miners only.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Blockchain is public for all but the information saved in the Blockchain is not public for all the users as it comes up with SHA encryption, and the information is only accessed during verification of the data by the legitimacy miners only.&lt;/p&gt;
 
-&lt;p&gt;Thinking about anonymity in the terms of Blockchain and cryptocurrency we could look for some points listed below.&lt;/p&gt;
+&lt;p&gt;Thinking about anonymity in terms of Blockchain and cryptocurrency, we could look for some points listed below.&lt;/p&gt;
 
 &lt;p&gt;The only thing to take in the consideration is,&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;BLOCKCHAIN AREN”T ANONYMOUS BUT THEY ARE PSEDUONYMOUS! &lt;/span&gt;&lt;/b&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Similar to how authors will sometimes write under a pseudonym, you send and receive cryptocurrency using a pseudonym. Instead of a fictitious name, though, your blockchain pseudonym is your public address. This long string of numbers and letters doesn’t contain any identifiable information that would tie you to the address or its associated wallet.&lt;/p&gt;
+&lt;p&gt;Similar to how authors will sometimes write under a pseudonym, you send and receive cryptocurrency using a pseudonym. Instead of a fictitious name, your blockchain pseudonym is your public address. This long string of numbers and letters does not contain any identifiable information that would tie you to the address or its associated wallet.&lt;/p&gt;
 
-&lt;p&gt;Consider a public hash of 32 bit like, 567sdf89h..v56eg4 this and this is available publically in the blockchain domain but no one could undermine that what this means!&lt;/p&gt;
+&lt;p&gt;Consider a public hash of 32 bit like 567sdf89h..v56eg4 this, which is available publically in the blockchain domain, but no one could undermine what this means!&lt;/p&gt;
 
-&lt;p&gt;Because the complicated addresses mask your identity, many people think that activity on a blockchain is anonymous. While public addresses protect your privacy to some extent, other blockchain features tend to expose you&lt;/p&gt;
+&lt;p&gt;Because the complicated addresses mask your identity, many people think that activity on a blockchain is anonymous. While public addresses protect your privacy to some extent, other blockchain features tend to expose you.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1588,47 +1588,47 @@ Other than that, atomic swaps bring up concerns about user’s privacy. That’s
    <link href="https://dhruvdoshi.github.io/blog/2019/09/04/what-is-wallet-in-blockchain"/>
    <updated>2019-09-04T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/04/What-is-Wallet-in-Blockchain-?</id>
-   <content type="html">&lt;p&gt;Crypto wallets keep your private keys – the passwords that give you access to your cryptocurrencies – safe and accessible, allowing you to send and receive cryptocurrencies like Bitcoin and Ethereum. They come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps like Coinbase Wallet, which makes using crypto as easy as shopping with a credit card online.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Crypto wallets keep your private keys – the passwords that give you access to your cryptocurrencies – safe and accessible, allowing you to send and receive cryptocurrencies like Bitcoin and Ethereum. They come in many forms, from hardware wallets like Ledger (which looks like a USB stick) to mobile apps like Coinbase Wallet, making using crypto as easy as shopping with a credit card online.&lt;/p&gt;
 
-&lt;p&gt;Going in depth we could signify the defination for the crypto wallets like, &lt;span style=&quot;color:green&quot;&gt;&lt;em&gt;“Crypto wallets store your private keys, keeping your crypto safe and accessible. They also allow you to send, receive, and spend cryptocurrencies like Bitcoin and Ethereum.”&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Going in-depth, we could signify the definition for the crypto wallets like, &lt;span style=&quot;color:green&quot;&gt;&lt;em&gt;“Crypto wallets store your private keys, keeping your crypto safe and accessible. They also allow you to send, receive, and spend cryptocurrencies like Bitcoin and Ethereum.”&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Understanding how crypto wallets work &lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-Blockchain is a public ledger that stores data in what’s known as “blocks.” These are records of all transactions, the balances held at any given address, and who holds the key to those balances. Crypto isn’t stored “in” a wallet, per se. The coins exist on a blockchain and the wallet software allows you to interact with the balances held on that blockchain. The wallet itself stores addresses and allows their owners to move coins elsewhere while also letting others see the balance held at any given address.&lt;/p&gt;
+Blockchain is a public ledger that stores data in known as “blocks.” These are records of all transactions, the balances held at any given address, and who holds the key to those balances. Crypto is not stored “in” a wallet, per se. The coins exist on a blockchain, and the wallet software allows you to interact with the balances held on that blockchain. The wallet itself stores addresses and allows its owners to move coins elsewhere while also letting others see the balance held at any given address.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;“Most Crypto wallets allow users to send, receive, and store crypto. Some have a feature to buy and spend cryptocurrencies,”&lt;/em&gt; says Utsav Dar, co-founder of Incub8 Finance. &lt;em&gt;“Certain crypto wallets have additional features like swapping between tokens, staking tokens for a fixed return paid out to users, as well as access to dApps (decentralized applications) built on various networks.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Most Crypto wallets allow users to send, receive, and store crypto. Some have a feature to buy and spend cryptocurrencies,”&lt;/em&gt; says Utsav Dar, co-founder of Incub8 Finance. &lt;em&gt;“Certain crypto wallets have additional features like swapping between tokens, staking tokens for a fixed return paid out to users, and access to DApps (decentralized applications) built on various networks.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;While each wallet has its own specific nuances, here are the general steps involved in sending or receiving funds using a crypto wallet:&lt;/p&gt;
+&lt;p&gt;While each wallet has its specific nuances, here are the general steps involved in sending or receiving funds using a crypto wallet:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;To receive funds,&lt;/span&gt;&lt;/b&gt; you need to retrieve an address (also known as a public key) from your wallet. Locate the “generate address” feature in your wallet, click it, then copy the alphanumeric address or QR code and share it with the person who wants to send you crypto.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;To receive funds,&lt;/span&gt;&lt;/b&gt; you need to retrieve an address (also known as a public key) from your wallet. Locate the “generate address” feature in your wallet, click it, copy the alphanumeric address or QR code and share it with the person who wants to send you crypto.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;To send funds,&lt;/span&gt;&lt;/b&gt; you need the address of the receiving wallet. Locate the “send” feature in your wallet and enter an address of the wallet you intend to send coins to. Select the amount of crypto you’d like to send, and click “confirm.” Consider sending a small test transaction before sending large amounts of crypto. Note that sending coins requires a fee that will be paid to miners in exchange for processing the transaction.&lt;/p&gt;
+    &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;To send funds,&lt;/span&gt;&lt;/b&gt; you need the address of the receiving wallet. Locate the “send” feature in your wallet and enter the wallet’s address you intend to send coins to. Select the amount of crypto you would like to send, and click “confirm.” Consider sending a small test transaction before sending large amounts of crypto. Note that sending coins requires a fee paid to miners in exchange for processing the transaction.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Sending money via QR codes or long strings of numbers and letters may seem strange at first. But after doing it a few times, the process becomes quite simple.&lt;/p&gt;
+&lt;p&gt;Sending money via QR codes or long strings of numbers and letters may seem strange. However, after doing it a few times, it becomes pretty simple.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;How do you use a crypto wallet?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
 Crypto wallets range from simple-to-use apps to more complex security solutions. The main types of wallets you can choose from include:&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Paper wallets:&lt;/span&gt;&lt;/b&gt; Keys are written on a physical medium like paper and stored in a safe place. This of course makes using your crypto harder, because as digital money it can only be used on the internet.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Paper wallets:&lt;/span&gt;&lt;/b&gt; Keys are written on a physical medium like paper and stored in a safe place. This, of course, makes using your crypto harder because digital money can only be used on the internet.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Hardware wallets:&lt;/span&gt;&lt;/b&gt; Keys are stored in a thumb-drive device that is kept in a safe place and only connected to a computer when you want to use your crypto. The idea is to try to balance security and convenience.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Online wallets:&lt;/span&gt;&lt;/b&gt; Keys are stored in an app or other software – look for one that is protected by two-step encryption. This makes sending, receiving, and using your crypto as easy as using any online bank account, payment system, or brokerage.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Online wallets:&lt;/span&gt;&lt;/b&gt; Keys are stored in an app or other software – look for one that is protected by two-step encryption. This makes sending, receiving, and using your crypto easier than using an online bank account, payment system, or brokerage.&lt;/p&gt;
 
-&lt;p&gt;Each type has its tradeoffs. Paper and hardware wallets are harder for malicious users to access because they are stored offline, but they are limited in function and risk being lost or destroyed. Online wallets offered by a major exchange like Coinbase are the simplest way to get started in crypto and offer a balance of security and easy access. (Because your private info is online, your protection against hackers is only as good as your wallet provider’s security – so make sure you look for features like two-factor verification.)&lt;/p&gt;
+&lt;p&gt;Each type has its tradeoffs. Paper and hardware wallets are more complicated for malicious users to access because they are stored offline, but they are limited in function and risk being lost or destroyed. Online wallets offered by a major exchange like Coinbase are the simplest way to get started in crypto and offer a balance of security and easy access. (Because your private info is online, your protection against hackers is only as good as your wallet provider’s security – so make sure you look for features like two-factor verification.)&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What could be done with the help of Crypto Wallets&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Manage all your digital assets in one secure place&lt;/li&gt;
-  &lt;li&gt;Control your own private keys&lt;/li&gt;
+  &lt;li&gt;Control your private keys&lt;/li&gt;
   &lt;li&gt;Send and receive cryptocurrency to and from anywhere in the world&lt;/li&gt;
   &lt;li&gt;Interact with usernames rather than long, hexadecimal “public key” addresses&lt;/li&gt;
-  &lt;li&gt;Browse dapps (decentralized finance apps)&lt;/li&gt;
+  &lt;li&gt;Browse DApps (decentralized finance apps)&lt;/li&gt;
   &lt;li&gt;Shop at stores that accept cryptocurrency&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -1662,11 +1662,11 @@ Crypto wallets range from simple-to-use apps to more complex security solutions.
    <updated>2019-09-03T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/03/What-is-Mining-in-Blockchain?</id>
    <content type="html">&lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What exactly is Blockchain mining?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-A peer-to-peer computer process, &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Blockchain mining is used to secure and verify Cryptocurrency transactions.&lt;/span&gt;&lt;/b&gt; Mining involves Blockchain miners who add cryptocurrencies transaction data to cryptocurrency’s global public ledger of past transactions. In the ledgers, blocks are secured by Blockchain miners and are connected forming a chain.&lt;/p&gt;
+A peer-to-peer computer process, &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Blockchain mining is used to secure and verify Cryptocurrency transactions.&lt;/span&gt;&lt;/b&gt; Mining involves Blockchain miners who add cryptocurrencies transaction data to cryptocurrency’s global public ledger of past transactions. In the ledgers, blocks are secured by Blockchain miners and are connected, forming a chain.&lt;/p&gt;
 
-&lt;p&gt;When we talk in-depth, as opposed to traditional financial services systems, Bitcoins have no central clearinghouse. Bitcoin transactions are generally verified in &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;decentralized clearing systems wherein people contribute computing resources to verify the same.&lt;/span&gt;&lt;/b&gt; This process of verifying transactions is called mining. It is probably referred to as mining as it is analogous to mining of commodities like gold—mining gold requires a lot of effort and resources, but then there is a limited supply of gold; hence, the amount of gold that is mined every year remains roughly the same. In the same manner, &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;a lot of computing power is consumed in the process of mining bitcoins.&lt;/span&gt;&lt;/b&gt; The number of bitcoins that are generated from mining dwindles over time. In the words of Satoshi Nakamoto, there’s a limited supply of bitcoins—only 21 million bitcoins will ever be created.&lt;/p&gt;
+&lt;p&gt;As opposed to traditional financial services systems, Bitcoins have no central clearinghouse when we talk in-depth. Bitcoin transactions are generally verified in &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;decentralized clearing systems wherein people contribute computing resources to verify the same.&lt;/span&gt;&lt;/b&gt; This process of verifying transactions is called mining. It is probably referred to as mining as it is analogous to mining of commodities like gold—mining gold requires a lot of effort and resources, but then there is a limited supply of gold; hence, the amount of gold that is mined every year remains roughly the same. In the same manner, &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;a lot of computing power is consumed in the process of mining bitcoins.&lt;/span&gt;&lt;/b&gt; The number of bitcoins generated from mining dwindles over time. In the words of Satoshi Nakamoto, there is a limited supply of bitcoins—only 21 million bitcoins will ever be created.&lt;/p&gt;
 
-&lt;p&gt;At its core, the term ‘Blockchain mining’ is used to describe the process of adding transaction records to the bitcoin blockchain. This process of adding blocks to the blockchain is how transactions are processed and how money moves around securely on Bitcoins. This process of Blockchain mining is performed by a community of people around the world called ‘Blockchain miners.’&lt;/p&gt;
+&lt;p&gt;At its core, the term ‘Blockchain mining’ is used to describe the process of adding transaction records to the bitcoin blockchain. This process of adding blocks to the blockchain is how transactions are processed and how money moves around securely on Bitcoins. This Blockchain mining process is performed by a community of people around the world called ‘Blockchain miners.’&lt;/p&gt;
 
 &lt;p&gt;Anyone can apply to become a Blockchain miner. These Blockchain miners install and run a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;special Blockchain mining software that enables their computers to communicate securely with one another.&lt;/span&gt;&lt;/b&gt; Once a computer installs the software, joins the network and begins mining bitcoins, it becomes what is called a &lt;em&gt;&lt;a href=&quot;https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain&quot;&gt;‘node.’&lt;/a&gt;&lt;/em&gt; Together, all these nodes communicate with one another and process transactions to add new blocks to the blockchain which is commonly known as the bitcoin network. This bitcoin network runs throughout the day. It processes equivalent to millions of dollars in bitcoin transactions and has never been hacked or experienced downtime since its launch in 2009.&lt;/p&gt;
 
@@ -1678,22 +1678,22 @@ When mining is done by an individual, user registration as a miner is necessary.
 &lt;p&gt;Once the solution is found, all the other miners in the blockchain network will validate the decrypted value and then add it to the blockchain. Thus, verifying the transaction.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;2. Pool Mining&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-    In pool mining, a group of users works together to approve the transaction. Sometimes, the complexity of the data encrypted in the blocks makes it difficult for a user to decrypt the encoded data alone. So, a group of miners works as a team to solve it. After the validation of the result, the reward is then split between all users.&lt;/p&gt;
+ In pool mining, users work together to approve the transaction. Sometimes, the complexity of the data encrypted in the blocks makes it difficult for a user to decrypt the encoded data alone. So, a group of miners works as a team to solve it. After validating the result, the reward is then split between all users.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;3. Cloud Mining&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-    Cloud mining eliminates the need for computer hardware and software. It’s a hassle-free method to extract blocks. With cloud mining, handling all the machinery, order timings, or selling profits is no longer a constant worry.&lt;/p&gt;
+ Cloud mining eliminates the need for computer hardware and software. It is a hassle-free method to extract blocks. With cloud mining, handling all the machinery, order timings, or selling profits is no longer a constant worry.&lt;/p&gt;
 
-&lt;p&gt;While it is hassle-free, it has its own set of disadvantages. The operational functionality is limited with the limitations on bitcoin hashing. The operational expenses increase as the reward profits are low. Software upgrades are restricted and so is the verification process.&lt;/p&gt;
+&lt;p&gt;While it is hassle-free, it has its own set of disadvantages. The operational functionality is limited with the limitations on bitcoin hashing. The operational expenses increase as the reward profits are low. Software upgrades are restricted, and so is the verification process.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Uses of Blockchain Mining&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;1. Validating Transactions&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-    Cryptocurrencies function without a central administrator and the insecurity can be substantial with the transactions that transpire. So, what is the authentication method with such cryptocurrencies? With each transaction, new blocks are added to the blockchain in the network and the validation lies in the mining results from the blockchain miners.&lt;/p&gt;
+ Cryptocurrencies function without a central administrator and the insecurity can be substantial with the transactions that transpire. So, what is the authentication method with such cryptocurrencies? With each transaction, new blocks are added to the blockchain in the network and the validation lies in the mining results from the blockchain miners.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;2. Confirming Transactions&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-    Miners work the blockchain mining process to confirm whether the transaction is authentic or not. All confirmed transactions are then included in the blockchain.&lt;/p&gt;
+ Miners work the blockchain mining process to confirm whether the transaction is authentic or not. All confirmed transactions are then included in the blockchain.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;3. Securing Networks&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-    With more users mining the blockchain,  the blockchain network security increases. Network security ensures that there are no fraudulent activities happening with the cryptocurrencies.&lt;/p&gt;
+ With more users mining the blockchain, the blockchain network security increases. Network security ensures that there are no fraudulent activities happening with the cryptocurrencies.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1723,24 +1723,24 @@ When mining is done by an individual, user registration as a miner is necessary.
    <link href="https://dhruvdoshi.github.io/blog/2019/09/02/what-is-timestamping-in-blockchain"/>
    <updated>2019-09-02T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/02/What-is-TimeStamping-in-Blockchain-!</id>
-   <content type="html">&lt;p&gt;Trusted timestamping is the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;process of securely keeping track of the creation and modification time of a document.&lt;/span&gt;&lt;/b&gt; Security here means that no one—not even the owner of the document—should be able to change it once it has been recorded provided that the timestamp’s integrity is never compromised.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Trusted timestamping is the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;process of securely keeping track of the creation and modification time of a document.&lt;/span&gt;&lt;/b&gt; Security here means that no one—not even the owner of the document—should be able to change it once it has been recorded, provided that the timestamp’s integrity is never compromised.&lt;/p&gt;
 
-&lt;p&gt;Decentralization is one of the fundamental aspects of technology blockchain And of course, that implies that anyone, from any part of the world, can be added to the network and can operate in it. This in turn causes, that there is no universal time code. This is because we can connect from any time zone. The timestamp is a timestamp, which is calculated according to different parameters.&lt;/p&gt;
+&lt;p&gt;Decentralization is one of the fundamental aspects of technology blockchain, And of course, that implies that anyone from any part of the world can be added to the network and can operate in it. This, in turn, causes there to be no universal time code. This is because we can connect from any time zone. The timestamp is a timestamp, which is calculated according to different parameters.&lt;/p&gt;
 
-&lt;p&gt;The temporal parameter, or timestamp, is based on an &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;instantaneous adjustment that uses a median of the timestamps returned by all nodes of the network.&lt;/span&gt;&lt;/b&gt; This is due to the decentralized form of it, and seeks to keep the nodes of the network as well synchronized as possible.&lt;/p&gt;
+&lt;p&gt;The temporal parameter, or timestamp, is based on an &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt; quick adjustment that uses a median of the timestamps returned by all nodes of the network.&lt;/span&gt;&lt;/b&gt; This is due to the decentralized form and seeks to keep the nodes of the network as well synchronized as possible.&lt;/p&gt;
 
-&lt;p&gt;We must also bear in mind that the timestamps of the blocks are not exact. This is because they do not necessarily have to be in order. However, they still offer a relative precision of between one and two hours, which gives a margin of validity. Basically, &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;all the nodes are connected to the same time slot.&lt;/span&gt;&lt;/b&gt; For this, the reference is taken UTC-0 (London local time), where UTC It’s in Spanish Coordinated Universal Time. From this, the network nodes coordinate the time in which they work. Now, after storing this data, the local node calculates the displacement time between the UTC strip and the local time.&lt;/p&gt;
+&lt;p&gt;We must also bear in mind that the timestamps of the blocks are not exact. This is because they do not necessarily have to be in order. However, they still offer a relative precision of between one and two hours, which gives a margin of validity. Basically, &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;all the nodes are connected to the same time slot.&lt;/span&gt;&lt;/b&gt; For this, the reference is taken UTC-0 (London local time), where UTC It is in Spanish Coordinated Universal Time. From this, the network nodes coordinate the time in which they work. After storing this data, the local node calculates the displacement time between the UTC strip and the local time.&lt;/p&gt;
 
-&lt;p&gt;This adjusts between the time of the local node with the displacement of all the nodes that are connected to the network. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;This allows the network time to be adjusted constantly&lt;/span&gt;&lt;/b&gt;. This avoids manipulation and usually does with slight time variations concerning the time slot. This is done in this way because there may be many hourly rates and repetitions and other problems could occur. Therefore, a universal timestamp creation system was developed for all nodes. This system takes into account the jet lag that could exist between the nodes.&lt;/p&gt;
+&lt;p&gt;This adjusts between the time of the local node with the displacement of all the nodes connected to the network. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;This allows the network time to be adjusted constantly&lt;/span&gt;&lt;/b&gt;. This avoids manipulation and usually does with little time variations concerning the time slot. This is done because there may be many hourly rates and repetitions, and other problems could occur. Therefore, a universal timestamp creation system was developed for all nodes. This system considers the jet lag that could exist between the nodes.&lt;/p&gt;
 
 &lt;p&gt;Implementing a timestamp makes the block it is &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;impossible to be repeated in the future&lt;/span&gt;&lt;/b&gt;, since, in addition to the time, the date of creation of the block is also stored, therefore, there is no possibility that it will be repeated hash that happened a week, two months ago, or a year ago.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What is blockchain timestamp used for?&lt;/span&gt;&lt;/b&gt;&amp;lt;/br&amp;gt;
-One of the main uses of a timestamp is to establish the parameters of the process of mining is. This is because these timestamps allow nodes to &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;correctly adjust the mining difficulty to be used for each block generation period.&lt;/span&gt;&lt;/b&gt; Timestamps help the network determine how long it takes to extract blocks for a certain period, and from there adjust the mining difficulty parameter.&lt;/p&gt;
+One of the primary uses of a timestamp is to establish the parameters of the mining process. This is because these timestamps allow nodes to &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;correctly adjust the mining difficulty to be used for each block generation period.&lt;/span&gt;&lt;/b&gt; Timestamps help the network determine how long it takes to extract blocks for a certain period and adjust the mining difficulty parameter.&lt;/p&gt;
 
-&lt;p&gt;This of course can open the door for miners to manipulate time to lessen the difficulty. Nevertheless, Satoshi Nakamoto, foresaw this and programmed the network so that nodes ignore blocks that are outside a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;certain time range based on their own internal clock time.&lt;/span&gt;&lt;/b&gt; As a result, if a miner tried to do this, he would lose all his mining work.&lt;/p&gt;
+&lt;p&gt;This, of course, can open the door for miners to manipulate time to lessen the difficulty. Nevertheless, Satoshi Nakamoto foresaw this and programmed the network so that nodes ignore blocks that are outside a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt; specific time range based on their own internal clock time.&lt;/span&gt;&lt;/b&gt; As a result, if a miner tried to do this, he would lose all his mining work.&lt;/p&gt;
 
 &lt;p&gt;On the other hand, in the whitepaper From Bitcoin, Nakamoto explains that another functionality of the timestamp is to create a mechanism to &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;avoid double-spending.&lt;/span&gt;&lt;/b&gt; In this regard, Nakamoto wrote the following:&lt;/p&gt;
 
@@ -1773,17 +1773,17 @@ One of the main uses of a timestamp is to establish the parameters of the proces
    <link href="https://dhruvdoshi.github.io/blog/2019/09/01/what-is-nodes-in-blockchain"/>
    <updated>2019-09-01T00:00:00-03:00</updated>
    <id>https://dhruvdoshi.github.io/2019/09/01/What-is-Nodes-in-Blockchain-?</id>
-   <content type="html">&lt;p&gt;A Node is a part of cryptocurrency that is needed to make most of the popular tokens like Bitcoin or Dogecoin function. It’s a fundamental part of the blockchain network, which is the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;decentralised ledger that is used to maintain a cryptocurrency.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;A Node is a part of cryptocurrency needed to make most of the popular tokens like Bitcoin or Dogecoin function. It’s a fundamental part of the blockchain network, which is the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;decentralised ledger that is used to maintain a cryptocurrency.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;The explanation can vary depending on the protocol. For example, a resident network may comprise a file server, three laptops and a fax machine. In this case, the network has five nodes, each equipped with a unique MAC address to identify them.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What is a node in blockchain?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-The term &lt;em&gt;“node”&lt;/em&gt; is being used mostly about blockchain, a decentralized digital ledger that records all cryptocurrency transactions and &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;makes the information available to everyone via a connected device.&lt;/span&gt;&lt;/b&gt; What this means is every transaction has to be chronologically recorded and distributed to a series of connected devices. These devices are called nodes. These nodes communicate with each other within the network and transfer information about transactions and new blocks.&lt;/p&gt;
+The term &lt;em&gt;“node”&lt;/em&gt; is being used chiefly about blockchain, a decentralized digital ledger that records all cryptocurrency transactions and &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;makes the information available to everyone via a connected device.&lt;/span&gt;&lt;/b&gt; What this means is that every transaction has to be chronologically recorded and distributed to a series of connected devices. These devices are called nodes. These nodes communicate within the network and transfer information about transactions and new blocks.&lt;/p&gt;
 
 &lt;p&gt;It is a critical component of the blockchain infrastructure. It helps maintain the &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;security and integrity of the network.&lt;/span&gt;&lt;/b&gt; A blockchain node’s main purpose is to verify each batch of network transactions, called blocks. Each node is distinguished from others by a unique identifier.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;What do nodes do?&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-When a miner attempts to add a new block of transactions to the blockchain, it broadcasts the block to all the nodes on the network. Based on the block’s legitimacy (validity of signature and transactions), &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;nodes can accept or reject the block.&lt;/span&gt;&lt;/b&gt; When a node accepts a new block of transactions, it saves and stores it on top of the rest of the blocks it already has stored. In short, here is what nodes do:&lt;/p&gt;
+When a miner attempts to add a new block of transactions to the blockchain, it broadcasts the block to all the nodes on the network. Based on the block’s legitimacy (validity of signature and transactions), &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;nodes can accept or reject the block.&lt;/span&gt;&lt;/b&gt; When a node accepts a new block of transactions, it saves and stores it on top of the blocks it already has stored. In short, here is what nodes do:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Nodes check if a block of transactions is valid and accept or reject it.&lt;/li&gt;
@@ -1803,16 +1803,16 @@ There are basically two types of nodes: &lt;b&gt;&lt;span style=&quot;color:gree
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Many volunteers run full Bitcoin nodes in a bid to help the Bitcoin ecosystem. As of now, there are roughly &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;12,130 public nodes&lt;/span&gt;&lt;/b&gt; running on the Bitcoin network. Other than the public nodes, there are many hidden nodes (non-listening nodes). These nodes usually run behind a firewall.&lt;/p&gt;
+&lt;p&gt;Many volunteers run full Bitcoin nodes to help the Bitcoin ecosystem. As of now, there are roughly &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;12,130 public nodes&lt;/span&gt;&lt;/b&gt; running on the Bitcoin network. Other than the public nodes, there are many hidden nodes (non-listening nodes). These nodes usually run behind a firewall.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Miners’ nodes&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-There is also a third type of node: Miner nodes. The term “Bitcoin miners” has now become familiar. These miners are classified as nodes. the miner may work alone (solo miner) or in groups (pool miner). A solo miner uses his full node. In a mining pool, only the administrator can run a full node — which can be referred to as a pool miner’s full node.&lt;/p&gt;
+There is also a third type of node: Miner nodes. The term “Bitcoin miners” has now become familiar. These miners are classified as nodes. The miner may work alone (solo miner) or in groups (pool miner). A solo miner uses his full node. Only the administrator can run a full node in a mining pool, which can be referred to as a pool miner’s full node.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;The difference between a miner and a node&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-A miner always needs to run a full node to select valid transactions to form a new block. Without a full node, it cannot determine what proposed transactions are valid according to the current blockchain’s transaction history (aka if all balances involved in the transactions are sufficient enough to perform the proposed transactions) because it does not have access to the full blockchain history. Therefore, a miner is always also a full node. A node, however, is not necessarily simultaneously a miner. A device can run a full node by receiving, storing and broadcasting all transaction data (much like a server) without actually creating new blocks of transactions itself. In this case, it functions more like a passing point with a directory, whereas a miner is the same but simultaneously tries to create new blocks of transactions as well.&lt;/p&gt;
+A miner must run a full node to select valid transactions to form a new block. Without a complete node, it cannot determine what proposed transactions are valid according to the current blockchain’s transaction history (if all balances involved in the transactions are sufficient to perform the proposed transactions) because it does not have access to the entire blockchain history. Therefore, a miner is always also a full node. A node, however, is not necessarily simultaneously a miner. A device can run a full node by receiving, storing, and broadcasting all transaction data (much like a server) without creating new blocks of transactions. In this case, it functions more like a passing point with a directory, whereas a miner is the same but simultaneously tries to create new blocks of transactions.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Listening nodes (supernodes)&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;
-And finally, a sub-category called listening nodes. A listening node, essentially, is a publicly visible full node. It communicates with any node that decides to establish a connection with it. A reliable super node typically runs all the time, transmitting blockchain history and transaction data to multiple nodes.&lt;/p&gt;
+Moreover, finally, a sub-category called listening nodes. A listening node, essentially, is a publicly visible full node. It communicates with any node that decides to establish a connection with it. A reliable super node typically runs simultaneously, transmitting blockchain history and transaction data to multiple nodes.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1837,15 +1837,15 @@ And finally, a sub-category called listening nodes. A listening node, essentiall
 
 &lt;p&gt;Blockchain is a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;shared, immutable ledger that felicitates the process of recording transactions and tracking assets in a business network&lt;/span&gt;&lt;/b&gt;. An investment can be tangible (a house or a car) or intangible (Intellectual property, patents, or copyrights). Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.&lt;/p&gt;
 
-&lt;p&gt;Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as “trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;cryptographic hash of the previous block and the timestamp&lt;/span&gt;&lt;/b&gt;, and the transaction data.&lt;/p&gt;
+&lt;p&gt;Finally, Blockchain is a growing list of records, called blocks linked together with cryptography which is also described as “trustless and fully decentralized peer to peer immutable data storage which is spread over the network of participants often referred to as the nodes. Every block contains a &lt;b&gt;&lt;span style=&quot; colour:green&quot;&gt;cryptographic hash of the previous block and the timestamp&lt;/span&gt;&lt;/b&gt;, and the transaction data.&lt;/p&gt;
 
 &lt;p&gt;But first, let’s get back to basics. What is Blockchain, and how does it work?&lt;/p&gt;
 
-&lt;p&gt;A blockchain is a file for storing data. Or, to put it in more technical terms, it’s an open, distributed database system. The data is distributed (i.e., duplicated), and the whole Blockchain is entirely decentralized. This means no one person or entity  (say, a government or corporation like Google or Microsoft) has control over the Blockchain;  this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.&lt;/p&gt;
+&lt;p&gt;A blockchain is a file for storing data. Or, it’s an open, distributed database system to put it in more technical terms. The data is distributed (i.e., duplicated), and the whole Blockchain is decentralized. This means no one person or entity (say, a government or corporation like Google or Microsoft) has control over the Blockchain; this is a radical departure from the centralized (Government databases) databases controlled and administered by businesses and other entities.&lt;/p&gt;
 
-&lt;p&gt;So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code,  forming a chain. Hence, the name &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;“blockchain.”&lt;/span&gt;&lt;/b&gt; As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.&lt;/p&gt;
+&lt;p&gt;So how does it work? In straightforward terms, the file consists of blocks of data, with each block being connected to the previous block with the hashing code, forming a chain. Hence, the name &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;“blockchain.”&lt;/span&gt;&lt;/b&gt; As well as the data itself, each block also contains a record of when that block was created or edited. It contains the hash code of the previous block, which makes it very useful for maintaining a complex system of records that cannot be corrupted or lost, and this is the primary use case to preserve the integrity of the data.&lt;/p&gt;
 
-&lt;p&gt;Because the whole Blockchain is duplicated across many computers,  any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, it’s because Bitcoin operates in the same way. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Bitcoin&lt;/span&gt;&lt;/b&gt; is the first example of Blockchain in action.&lt;/p&gt;
+&lt;p&gt;Because the whole Blockchain is duplicated across many computers, any user can view the entire Blockchain in the case of public blockchains. Transactions or records are processed not by one central administrator but by a network of users who work to verify the data and achieve a consensus; these verifiers are known as miners, each miner is paid some cryptocurrency for successful mining. If this sounds familiar, Bitcoin operates in the same way. &lt;b&gt;&lt;span style=&quot;color:green&quot;&gt;Bitcoin&lt;/span&gt;&lt;/b&gt; is the first example of Blockchain in action.&lt;/p&gt;
 
 &lt;hr /&gt;
 
